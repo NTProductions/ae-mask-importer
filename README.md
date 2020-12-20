@@ -11,4 +11,4 @@
 To create self creating .jsx shapes, use the <a href="https://github.com/NTProductions/ae-mask-exporter">Exporter Script</a>
 
 ## Limitations
-Currently the only real limitation is no support for hold keyframes yet
+Not tested with keyed expansion and feather
